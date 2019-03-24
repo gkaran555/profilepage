@@ -2,7 +2,7 @@
   <div id="app" v-cloak>
     <header>      
 			  <nav class="site-nav">	      
-			        <p><router-link to="/goranb" exact>Home</router-link></p>
+			        <p><router-link to="/" exact>Home</router-link></p>
 			        <p><router-link to="/about" exact>Skill</router-link></p>
               <p><router-link to="/projects" exact>Examples</router-link></p>
               <p><router-link to="/gallery" exact>Gallery</router-link></p>
