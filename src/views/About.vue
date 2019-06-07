@@ -3,12 +3,15 @@
     <div>
         <p>html, css, sass, stylus</p>
         <p>javascript, es6 (vue-vuex, jquery)</p>
-        <p>php (laravel), mysql</p>
         <p>converting psd, responsive design</p>
         <p>css animations, greensock, chart, svg</p>
         <p>flexbox, css grid, bem</p>
-        <p>git, ajax, spa, seo, ssr, pwa, vsc</p>
-        <p>apollo-graphql, moment, websocket</p>
+        <p>vuetify, quasar, element, gridsome, nuxt…</p>
+        <p>bootstrap, foundation, bulma…</p>
+        <p>ajax, apollo-graphql, websocket</p>
+        <p>git, spa, seo, pwa, ssr, vsc, cms</p>
+        <p>test, jwt-auth, chat, moment, jamstack</p>
+        <p>firebase, php-laravel, node-express, mysql</p>
     </div>
   </div>
 </template>

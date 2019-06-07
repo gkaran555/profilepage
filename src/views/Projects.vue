@@ -38,6 +38,22 @@
            </div> 
            </a>         
         </swiper-slide>
+        <swiper-slide>
+            <a target="_blank" href="https://drum-machine-v.netlify.com">
+            <div class="infoimg">
+              <p>Simple step sequencer <br>
+                 built with Vue </p>
+           </div> 
+           </a>         
+        </swiper-slide>
+         <swiper-slide>
+            <a target="_blank" href="https://trailpackpage.netlify.com">
+            <div class="infoimg">
+              <p>Trail-pack component <br>
+                 for e-commerce site</p>
+           </div> 
+           </a>         
+        </swiper-slide>
          <swiper-slide>
             <a target="_blank" href="https://github.com/gkaran555/Pbook">
             <div class="infoimg">
