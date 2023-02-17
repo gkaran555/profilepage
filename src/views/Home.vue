@@ -3,7 +3,7 @@
     
     <h2>Goran Karan</h2>
   
-    <h3 class="fadeIn wait-1s">Front-end Developer</h3>
+    <h3 class="fadeIn wait-1s">Web Developer</h3>
     
     
     <div class="home_a fadeIn wait-2s">
