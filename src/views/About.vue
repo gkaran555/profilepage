@@ -1,17 +1,15 @@
 <template>
   <div class="skill">
     <div>
-        <p>html, css, sass, stylus</p>
-        <p>javascript, es6 (vue-vuex, jquery)</p>
-        <p>converting psd, responsive design</p>
-        <p>css animations, greensock, chart, svg</p>
-        <p>flexbox, css grid, bem</p>
-        <p>vuetify, quasar, element, gridsome, nuxt…</p>
-        <p>bootstrap, foundation, bulma…</p>
-        <p>ajax, apollo-graphql, websocket</p>
-        <p>git, spa, seo, pwa, ssr, vsc, cms</p>
-        <p>test, jwt-auth, chat, moment, jamstack</p>
-        <p>firebase, php-laravel, node-express, mysql</p>
+        <p>HTML, CSS, SCSS, Modular CSS</p>
+        <p>JavaScript, ES6, TypeScript</p>
+        <p>Vue.js, Pinia, Nuxt, jQuery</p>
+        <p>PHP, Drupal, MySQL</p>
+        <p>Responsive Design, Progressive Web App</p>
+        <p>Greensock, Bootstrap, Chart, SVG, Adobe XD</p>
+        <p>GIT, SPA, SEO</p>
+        <p>Agile Methodology</p>
+        <p>Deployment, Testing</p>
     </div>
   </div>
 </template>
